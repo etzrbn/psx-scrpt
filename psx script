@@ -1,0 +1,37 @@
+always true
+~load screen white~
+(workspace 64bit)
+
+~workspace.gameui~
+(workspace 64bit)
+
+~load variables-(~black,floating,movable~)
+(workspace 64bit)
+
+(tab 1 (name) _ "auto farm pinitas") script pinatas
+~
+(while true do
+(set consle "/25x luck" "/lucy boost")
+end
+set position ("spawn continue until volcano") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+~~
+set position ("fantasyworld continue until heaven island") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+ ~~
+set position ("techworld~continue until Hacker portal") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+~
+~
+~
+(set consle "/25x luck" "/lucy boost")
+end
+
+<while true . again . do>
+set position ("axolotlocean continue until axolotl chest") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+~~
+set position ("pixelworld continue until pixel vault") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+ ~~
+set position ("catworld continue until cat kingdom") {"wait ("while waiting "pet (s)} ("brake pinita~~stop waiting")
+~
+~
+~
+(set consle "/25x luck" "/lucy boost")
+end)
